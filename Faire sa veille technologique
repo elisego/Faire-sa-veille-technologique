@@ -1,10 +1,19 @@
 1: JAVA
-
-
+https://java.developpez.com/actu/295892/JDK-14-va-apporter-plus-de-fonctionnalites-que-les-deux-versions-precedentes-combinees-petit-tour-d-horizon-sur-celles-qui-sont-susceptibles-d-interesser-le-plus-les-developpeurs/
+Le Java Development Kit (JDK) (désigne un ensemble de bibliothèques logicielles de base du langage de programmation Java)
+dans la nouvelle version disponible ils y a :
+- des ameliorations sur le switch 
+- le pattern matching pour instanceof (une fonction de langage)
+- Des NullPointerExceptions utiles (une fonctionnalité JVM)
 
 2: CSS
-
+https://medium.com/codegg/skew-skew-skew-css-transform-function-to-the-reskew-ae1267d1d8a6
+CSS Transform permets de styliser la barre de navigation en forme de vague et permet d'y integrer un dégradé de couleur 
 
 
 3: UX
+https://siecledigital.fr/2020/02/17/personas-tool-outil-comprehension-personas-ameliorer-ux/
+personal tools est une nouvelle fonctionnalité de la plateforme FlowMapp qui permets de mieux communiquer avec l'équipe
+design et donc d'ameliorer l'ux design d'un projet en créer des profils différents 
+
 
